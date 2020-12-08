@@ -26,8 +26,8 @@ elif(x==2):
  print(a==b)
  print(a!=b)
 elif(x==3):
- a=str(input("type either true or false: "))
- b=str(input("type either true or false: "))
+ a=str(input("type either true or false:"))
+ b=str(input("type either true or false:"))
  print(a and b)
  print(a or b)
  print(not a)
